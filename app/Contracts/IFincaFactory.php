@@ -11,3 +11,8 @@ interface IFincaFactory
 {
     public function make(array $datos): Finca;
 }
+
+
+
+
+//para prueba
