@@ -4,7 +4,6 @@ namespace App\Contracts;
 
 use App\Models\Finca;
 use Illuminate\Support\Collection;
-
 /**
  * Repository interface for Finca persistence.
  */
